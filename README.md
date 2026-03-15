@@ -1,4 +1,18 @@
-## Hi there 👋
+# Hi, I'm Petr 👋
+
+Java web developer building web applications, APIs and embedded projects.
+
+## Tech I use
+- Java
+- SQL
+- REST APIs
+- HTML / CSS / JS
+- ESP32
+
+## Featured projects
+- Insurance API (Java + SQLite)
+- ESP32 Mesh temperature network
+- Simple task manager web app
 
 <!--
 **FD-technic/FD-technic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
