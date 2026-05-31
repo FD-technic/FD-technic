@@ -1,18 +1,60 @@
-# Hi, I'm Petr 👋
+## Hi, I'm Petr 👋
 
-Java web developer building web applications, APIs and embedded projects.
+Junior Java Developer focused on backend development with Spring Boot.
+
+I'm building web applications, REST APIs and embedded IoT projects. Currently expanding my skills in React and fullstack development.
 
 ## Tech I use
-- Java
-- SQL
-- REST APIs
-- HTML / CSS / JS
-- ESP32
 
-## Featured projects
-- Insurance API (Java + SQLite)
-- ESP32 Mesh temperature network
-- Simple task manager web app
+#### Backend
+- Java
+- Spring Boot
+- REST APIs
+- Maven
+
+#### Database
+- SQL
+- JPA / Hibernate
+
+#### Frontend
+- React
+- TypeScript
+- JavaScript
+- HTML / CSS
+
+#### Tools
+- Git
+- GitHub
+- Postman
+
+#### Embedded
+- ESP32
+- C++
+
+## Featured Projects
+
+### EquiFlow
+
+Fullstack application for investment portfolio management.
+
+Tech: Java, Spring Boot, React, TypeScript, SQL
+
+### FD Shop
+
+E-commerce application currently under development.
+
+Tech: Java, Spring Boot, React, SQL
+
+### ESP32 Heating Control System
+
+IoT project based on ESP32 mesh networking for temperature monitoring and heating control.
+
+Tech: ESP32, C++, painlessMesh, JSON
+
+## Connect with me
+
+- LinkedIn: [linkedin.com/in/petr-hron-dev](https://linkedin.com/in/petr-hron-dev)
+- GitHub: [github.com/FD-technic](https://github.com/FD-technic)
 
 <!--
 **FD-technic/FD-technic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
