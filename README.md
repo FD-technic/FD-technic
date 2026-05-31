@@ -4,42 +4,19 @@ Junior Java Developer focused on backend development with Spring Boot.
 
 I'm building web applications, REST APIs and embedded IoT projects. Currently expanding my skills in React and fullstack development.
 
-## Tech I use
+## Tech Stack
 
-#### Backend
-- Java
-- Spring Boot
-- REST APIs
-- Maven
-
-#### Database
-- SQL
-- JPA / Hibernate
-
-#### Frontend
-- React
-- TypeScript
-- JavaScript
-- HTML / CSS
-
-#### Tools
-- Git
-- GitHub
-- Postman
-
-#### Embedded
-- ESP32
-- C++
+Java • Spring Boot • SQL • React • TypeScript • Git • ESP32
 
 ## Featured Projects
 
-### EquiFlow
+### [EquiFlow](https://github.com/FD-technic/equiflow-client)
 
 Fullstack application for investment portfolio management.
 
 Tech: Java, Spring Boot, React, TypeScript, SQL
 
-### FD Shop
+### [FD Shop](https://github.com/FD-technic/fd-shop)
 
 E-commerce application currently under development.
 
