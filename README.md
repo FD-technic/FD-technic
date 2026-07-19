@@ -23,10 +23,17 @@ E-commerce application currently under development.
 Tech: Java, Spring Boot, React, SQL
 
 ### ESP32 Heating Control System
+#### [IoT Server](https://github.com/FD-technic/iot-server)
 
-IoT project based on ESP32 mesh networking for temperature monitoring and heating control.
+A lightweight backend for ESP32 devices communicating over HTTP. Provides a generic device protocol, command processing and an extensible architecture for future IoT projects.
 
-Tech: ESP32, C++, painlessMesh, JSON
+**Tech:** Java, Spring Boot, REST API, Jackson, Linux
+
+#### [IoT Devices](https://github.com/FD-technic/iot-devices)
+
+Firmware collection for ESP32-based IoT devices including temperature monitoring, irrigation and heating control.
+
+**Tech:** ESP32, C++, PlatformIO, Arduino, JSON
 
 ## Connect with me
 
