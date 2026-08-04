@@ -1,56 +1,89 @@
-## Hi, I'm Petr 👋
+# Hi, I'm Petr 👋
 
-Junior Java Developer focused on backend development with Spring Boot.
+I'm a Java Backend Developer passionate about building practical software solutions.
 
-I'm building web applications, REST APIs and embedded IoT projects. Currently expanding my skills in React and fullstack development.
+After many years in technical and management roles in manufacturing, I decided to change my career and return to my long-standing interest in software development. I completed a web application development retraining program and now continue to expand my skills through personal projects solving real-world problems.
+
+My main focus is Java and Spring Boot, but I also enjoy working with Linux, Docker, React and embedded development using ESP32.
+
+---
 
 ## Tech Stack
 
-Java • Spring Boot • SQL • React • TypeScript • Git • ESP32
+**Backend**
+
+Java • Spring Boot • REST API • JPA / Hibernate • PostgreSQL
+
+**Frontend**
+
+React • TypeScript • Vite
+
+**DevOps**
+
+Docker • Linux • Nginx • Git
+
+**Embedded**
+
+ESP32 • C++ • PlatformIO • Arduino
+
+---
 
 ## Featured Projects
 
-### [EquiFlow](https://github.com/FD-technic/equiflow-client)
+### 📈 EquiFlow
 
-Fullstack application for investment portfolio management.
+A full-stack investment dashboard for tracking stocks and ETFs.
 
-Tech: Java, Spring Boot, React, TypeScript, SQL
+**Tech:** Java • Spring Boot • React • TypeScript • PostgreSQL • Docker
 
-### [FD Shop](https://github.com/FD-technic/fd-shop)
+🌐 https://equiflow.ferdo.eu
 
-E-commerce application currently under development.
+📦 https://github.com/FD-technic/equiflow-backend
 
-Tech: Java, Spring Boot, React, SQL
+📦 https://github.com/FD-technic/equiflow-client
 
-### ESP32 Heating Control System
-#### [IoT Server](https://github.com/FD-technic/iot-server)
+---
 
-A lightweight backend for ESP32 devices communicating over HTTP. Provides a generic device protocol, command processing and an extensible architecture for future IoT projects.
+### 🌡️ IoT Platform
 
-**Tech:** Java, Spring Boot, REST API, Jackson, Linux
+A modular platform connecting ESP32 devices with a Spring Boot backend using REST APIs.
 
-#### [IoT Devices](https://github.com/FD-technic/iot-devices)
+Designed for home automation and environmental monitoring.
 
-Firmware collection for ESP32-based IoT devices including temperature monitoring, irrigation and heating control.
+#### IoT Server
 
-**Tech:** ESP32, C++, PlatformIO, Arduino, JSON
+Spring Boot backend providing REST communication, command processing and device management.
 
-## Connect with me
+📦 https://github.com/FD-technic/iot-server
 
-- LinkedIn: [linkedin.com/in/petr-hron-dev](https://linkedin.com/in/petr-hron-dev)
-- GitHub: [github.com/FD-technic](https://github.com/FD-technic)
+#### IoT Devices
 
-<!--
-**FD-technic/FD-technic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ESP32 firmware built with PlatformIO for sensor integration and communication with the backend.
 
-Here are some ideas to get you started:
+📦 https://github.com/FD-technic/iot-devices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Currently Learning
+
+- Advanced Spring Boot
+- React
+- Software Architecture
+- Clean Code
+- Financial Analytics
+
+---
+
+## Connect with Me
+
+💼 LinkedIn
+
+https://linkedin.com/in/petr-hron-dev
+
+🌐 Portfolio
+
+https://fdweb.cz *(under construction)*
+
+📦 GitHub
+
+https://github.com/FD-technic
