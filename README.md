@@ -1,30 +1,45 @@
 # Hi, I'm Petr 👋
 
-Java web developer building web applications, APIs and embedded projects.
+Junior Java developer focused on backend development with Java and Spring Boot.
+
+I build web applications, REST APIs and IoT projects, and I also work with React and TypeScript to build complete full-stack solutions.
 
 ## Tech I use
+
 - Java
-- SQL
+- Spring Boot
 - REST APIs
-- HTML / CSS / JS
-- ESP32
+- PostgreSQL / SQL
+- React / TypeScript
+- HTML / CSS
+- Docker
+- Linux
+- ESP32 / IoT
+- C++
 
 ## Featured projects
-- Insurance API (Java + SQLite)
-- ESP32 Mesh temperature network
-- Simple task manager web app
 
-<!--
-**FD-technic/FD-technic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### EquiFlow
+Full-stack investment portfolio tracker built with React, TypeScript, Spring Boot and PostgreSQL.
+- [Live demo](https://equiflow.ferdo.eu)
 
-Here are some ideas to get you started:
+### FDweb
+My personal portfolio website and a real-world implementation of my reusable UI foundation.
+- [FDweb](https://fdweb.cz)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ferdo-ui
+Reusable React UI foundation and design system with components, layouts, themes and design tokens.
+- [repository](https://github.com/FD-technic/ferdo-ui-template)
+
+### IoT
+ESP32-based projects combining sensors, networking and backend services.
+
+## Currently learning
+
+Java · Spring Boot · React · TypeScript · Docker · Backend development
+
+## Links
+
+- [FDweb](https://fdweb.cz)
+- [LinkedIn](https://www.linkedin.com/in/petr-hron-dev/)
+- [ferdo-ui](https://github.com/FD-technic/ferdo-ui-template)
